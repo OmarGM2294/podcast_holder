@@ -30,13 +30,22 @@
     </v-row>
     <v-row justify="center">
       <v-icon class="pa-5" size="50" color="#8932c3">fas fa-podcast</v-icon>
-      <v-icon class="pa-5" size="50" color="#1ed760">fab fa-spotify</v-icon>
+      <a
+        href="https://open.spotify.com/show/0qpVwJDUbD5cqwDHQKpThb?si=LhqmkLjFTDGBoqGWybgRtw"
+        target="_blank"
+        rel="noopener">
+        <v-icon class="pa-5" size="50" color="#1ed760">fab fa-spotify</v-icon>
+      </a>
     </v-row>
     <v-row justify="center">
       <v-col md="8" sm="10" lg="6">
-        <h4 class="title">
-          Siguenos en...
-        </h4>
+        <iframe
+          src="https://open.spotify.com/embed-podcast/show/0qpVwJDUbD5cqwDHQKpThb"
+          width="100%"
+          height="232"
+          frameborder="0"
+          allowtransparency="true"
+          allow="encrypted-media"></iframe>
       </v-col>
     </v-row>
     <v-row justify="center">
@@ -44,6 +53,13 @@
         <p class="justify-center">
           Music by: <a href="https://josephmcdade.com/music">JOSEPH MCDADE</a>
         </p>
+      </v-col>
+    </v-row>
+    <v-row justify="center">
+      <v-col md="8" sm="10" lg="6">
+        <h4 class="title">
+          Siguenos en...
+        </h4>
       </v-col>
     </v-row>
     <v-row justify="center">

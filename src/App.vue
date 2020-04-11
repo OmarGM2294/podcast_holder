@@ -16,15 +16,23 @@
           </v-btn>
         </router-link>
 
-        <router-link to="/about">
+        <!--<router-link to="/about">
           <v-btn text :ripple="false">
             METALLIUM
           </v-btn>
-        </router-link>
+        </router-link>-->
       </v-app-bar>
       <v-content>
         <router-view/>
       </v-content>
+      <v-footer dark>
+        <v-col
+          class="text-center"
+          cols="12"
+        >
+          &copy; {{ new Date().getFullYear() }}
+        </v-col>
+      </v-footer>
     </v-app>
   </div>
 </template>
