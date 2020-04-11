@@ -109,8 +109,11 @@ function generateRSS() {
         '@type': 'audio/mpeg',
         '@length': '1'
       },
+      'itunes:image': {
+        '@href': `${BASE_URL}episodes/${episode.img}` 
+      },
       guid: {
-        '#text': `${BASE_URL}episodes/${episode.img}`
+        '#text': episode.id
       },
       'itunes:duration': {
         '#text': episode.duration
