@@ -29,13 +29,22 @@
       </v-col>
     </v-row>
     <v-row justify="center">
-      <v-icon class="pa-5" size="50" color="#8932c3">fas fa-podcast</v-icon>
-      <a
+      <v-btn
+        href="https://podcasts.apple.com/co/podcast/triple-a-gaming-podcast/id1507492268"
+        target="_blank"
+        rel="noopener"
+        class="pa-5 ma-5"
+        icon>
+        <v-icon size="50" color="#8932c3">fas fa-podcast</v-icon>
+      </v-btn>
+      <v-btn
         href="https://open.spotify.com/show/0qpVwJDUbD5cqwDHQKpThb?si=LhqmkLjFTDGBoqGWybgRtw"
         target="_blank"
-        rel="noopener">
-        <v-icon class="pa-5" size="50" color="#1ed760">fab fa-spotify</v-icon>
-      </a>
+        rel="noopener"
+        class="pa-5 ma-5"
+        icon>
+        <v-icon size="50" color="#1ed760">fab fa-spotify</v-icon>
+      </v-btn>
     </v-row>
     <v-row justify="center">
       <v-col md="8" sm="10" lg="6">
