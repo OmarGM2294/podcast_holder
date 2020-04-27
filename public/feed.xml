@@ -27,7 +27,7 @@
     <description>La industria de los videojuegos se ha vuelto uno de los negocios más rentables del último siglo, pero como cualquier industria no es perfecta. Metallium habla en este podcast temas relacionados con la industria dando su perspectiva del asunto. Únete a este podcast y escucha como la industria se mueve para que juntos la mejoremos.</description>
     <itunes:summary>La industria de los videojuegos se ha vuelto uno de los negocios más rentables del último siglo, pero como cualquier industria no es perfecta. Metallium habla en este podcast temas relacionados con la industria dando su perspectiva del asunto. Únete a este podcast y escucha como la industria se mueve para que juntos la mejoremos.</itunes:summary>
     <itunes:subtitle>La industria de los videojuegos se ha vuelto uno de los negocios más rentables del último siglo, pero como cualquier industria no es perfecta. Metallium habla en este podcast temas relacionados con la industria dando su perspectiva del asunto.</itunes:subtitle>
-    <lastBuildDate>Tue, 14 Apr 2020 19:36:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2020 16:47:14 GMT</lastBuildDate>
     <item>
       <title>T1/E1 - Final Fantasy VII: Remake y la pandemia</title>
       <description>El lanzamiento de FFVII:Remake es uno de los más esperados del 2020, vamos a discutir que tal la nueva versión del clásico y como la pandemia hizo sus estragos.</description>
@@ -38,6 +38,17 @@
       <guid>T1_E1</guid>
       <itunes:duration>0:20:00</itunes:duration>
       <pubDate>Fri, 10 Apr 2020 00:47:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>T1/E2 - El terror en los juegos según la edad</title>
+      <description>Los juegos de terror pueden dar más o menos miedo, según la edad del jugador, vamos a discutir cuales son los factores que permiten tener mas miedo a medida de que ganamos años.</description>
+      <itunes:summary>Los juegos de terror pueden dar más o menos miedo, según la edad del jugador, vamos a discutir cuales son los factores que permiten tener mas miedo a medida de que ganamos años.</itunes:summary>
+      <itunes:subtitle>Los juegos de terror pueden dar más o menos miedo, según la edad del jugador, vamos a discutir cuales son los factores que permiten tener mas miedo a medida de que ganamos años.</itunes:subtitle>
+      <enclosure url="http://tripleagamingpodcast.com/episodes/T1/E2/E2.mp3" type="audio/mpeg" length="1"/>
+      <itunes:image href="http://tripleagamingpodcast.com/episodes/T1/E2/Logo.jpg"/>
+      <guid>T1_E2</guid>
+      <itunes:duration>0:25:29</itunes:duration>
+      <pubDate>Mon, 27 Apr 2020 12:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
