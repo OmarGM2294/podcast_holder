@@ -18,5 +18,15 @@
     "pubDate": "Mon, 27 Apr 2020 12:00:00 GMT",
     "file": "T1/E2/E2.mp3",
     "img": "T1/E2/Logo.jpg"
+  },
+  {
+    "id": "T1_E3",
+    "title": "T1/E3 - La guerra de consolas ya no existe",
+    "description": "La guerra de consolas es un tema que se lleva hablando desde hace mucho tiempo, pero, ¿de verdad esta importa?, ¿sigue habiendo competencia entre las compañias?.",
+    "subtitle": "La guerra de consolas es un tema que se lleva hablando desde hace mucho tiempo, pero, ¿de verdad esta importa?, ¿sigue habiendo competencia entre las compañias?.",
+    "duration": "0:20:49",
+    "pubDate": "Mon, 11 May 2020 12:00:00 GMT",
+    "file": "T1/E3/E3.mp3",
+    "img": "T1/E3/Logo.png"
   }
 ]
