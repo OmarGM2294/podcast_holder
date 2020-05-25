@@ -27,7 +27,7 @@
     <description>La industria de los videojuegos se ha vuelto uno de los negocios más rentables del último siglo, pero como cualquier industria no es perfecta. Metallium habla en este podcast temas relacionados con la industria dando su perspectiva del asunto. Únete a este podcast y escucha como la industria se mueve para que juntos la mejoremos.</description>
     <itunes:summary>La industria de los videojuegos se ha vuelto uno de los negocios más rentables del último siglo, pero como cualquier industria no es perfecta. Metallium habla en este podcast temas relacionados con la industria dando su perspectiva del asunto. Únete a este podcast y escucha como la industria se mueve para que juntos la mejoremos.</itunes:summary>
     <itunes:subtitle>La industria de los videojuegos se ha vuelto uno de los negocios más rentables del último siglo, pero como cualquier industria no es perfecta. Metallium habla en este podcast temas relacionados con la industria dando su perspectiva del asunto.</itunes:subtitle>
-    <lastBuildDate>Mon, 11 May 2020 18:45:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2020 17:34:54 GMT</lastBuildDate>
     <item>
       <title>T1/E1 - Final Fantasy VII: Remake y la pandemia</title>
       <description>El lanzamiento de FFVII:Remake es uno de los más esperados del 2020, vamos a discutir que tal la nueva versión del clásico y como la pandemia hizo sus estragos.</description>
@@ -60,6 +60,17 @@
       <guid>T1_E3</guid>
       <itunes:duration>0:20:49</itunes:duration>
       <pubDate>Mon, 11 May 2020 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>T1/E4 - La estrategia tóxica de Riot con Valorant</title>
+      <description>Valorant el nuevo juego de Riot Games, ha utilizado una nueva estrategia para darse a conocer, analicemos si como funciona y si es en si buena.</description>
+      <itunes:summary>Valorant el nuevo juego de Riot Games, ha utilizado una nueva estrategia para darse a conocer, analicemos si como funciona y si es en si buena.</itunes:summary>
+      <itunes:subtitle>Valorant el nuevo juego de Riot Games, ha utilizado una nueva estrategia para darse a conocer, analicemos si como funciona y si es en si buena.</itunes:subtitle>
+      <enclosure url="http://tripleagamingpodcast.com/episodes/T1/E4/E4.mp3" type="audio/mpeg" length="1"/>
+      <itunes:image href="http://tripleagamingpodcast.com/episodes/T1/E4/Logo.png"/>
+      <guid>T1_E4</guid>
+      <itunes:duration>0:20:44</itunes:duration>
+      <pubDate>Mon, 25 May 2020 12:00:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
