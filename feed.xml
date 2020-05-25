@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <link>http://tripleagamingpodcast.com/</link>
+    <language>es-es</language>
+    <copyright>&#xA9;2020</copyright>
+    <webMaster>ogonzalez2212@gmail.com (Omar Gonzalez)</webMaster>
+    <managingEditor>ogonzalez2212@gmail.com (Omar Gonzalez)</managingEditor>
+    <image>
+      <url>http://tripleagamingpodcast.com/logo.jpg</url>
+      <title>Triple A Gaming Podcast</title>
+      <link>http://tripleagamingpodcast.com/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Omar Gonzalez</itunes:name>
+      <itunes:email>ogonzalez2212@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Leisure">
+      <itunes:category text="Video Games"/>
+    </itunes:category>
+    <itunes:keywords>games, videogames, talking, news</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+    <atom:link href="http://tripleagamingpodcast.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 09 Apr 2020 21:58:43 GMT</pubDate>
+    <title>Triple A Gaming Podcast</title>
+    <itunes:author>Metallium</itunes:author>
+    <description>La industria de los videojuegos se ha vuelto uno de los negocios más rentables del último siglo, pero como cualquier industria no es perfecta. Metallium habla en este podcast temas relacionados con la industria dando su perspectiva del asunto. Únete a este podcast y escucha como la industria se mueve para que juntos la mejoremos.</description>
+    <itunes:summary>La industria de los videojuegos se ha vuelto uno de los negocios más rentables del último siglo, pero como cualquier industria no es perfecta. Metallium habla en este podcast temas relacionados con la industria dando su perspectiva del asunto. Únete a este podcast y escucha como la industria se mueve para que juntos la mejoremos.</itunes:summary>
+    <itunes:subtitle>La industria de los videojuegos se ha vuelto uno de los negocios más rentables del último siglo, pero como cualquier industria no es perfecta. Metallium habla en este podcast temas relacionados con la industria dando su perspectiva del asunto.</itunes:subtitle>
+    <lastBuildDate>Mon, 25 May 2020 17:34:54 GMT</lastBuildDate>
+    <item>
+      <title>T1/E1 - Final Fantasy VII: Remake y la pandemia</title>
+      <description>El lanzamiento de FFVII:Remake es uno de los más esperados del 2020, vamos a discutir que tal la nueva versión del clásico y como la pandemia hizo sus estragos.</description>
+      <itunes:summary>El lanzamiento de FFVII:Remake es uno de los más esperados del 2020, vamos a discutir que tal la nueva versión del clásico y como la pandemia hizo sus estragos.</itunes:summary>
+      <itunes:subtitle>El lanzamiento de FFVII:Remake es uno de los más esperados del 2020, vamos a discutir que tal la nueva versión del clásico y como la pandemia hizo sus estragos.</itunes:subtitle>
+      <enclosure url="http://tripleagamingpodcast.com/episodes/T1/E1/T1E1.mp3" type="audio/mpeg" length="1"/>
+      <itunes:image href="http://tripleagamingpodcast.com/episodes/T1/E1/logo.jpg"/>
+      <guid>T1_E1</guid>
+      <itunes:duration>0:20:00</itunes:duration>
+      <pubDate>Fri, 10 Apr 2020 00:47:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>T1/E2 - El terror en los juegos según la edad</title>
+      <description>Los juegos de terror pueden dar más o menos miedo, según la edad del jugador, vamos a discutir cuales son los factores que permiten tener mas miedo a medida de que ganamos años.</description>
+      <itunes:summary>Los juegos de terror pueden dar más o menos miedo, según la edad del jugador, vamos a discutir cuales son los factores que permiten tener mas miedo a medida de que ganamos años.</itunes:summary>
+      <itunes:subtitle>Los juegos de terror pueden dar más o menos miedo, según la edad del jugador, vamos a discutir cuales son los factores que permiten tener mas miedo a medida de que ganamos años.</itunes:subtitle>
+      <enclosure url="http://tripleagamingpodcast.com/episodes/T1/E2/E2.mp3" type="audio/mpeg" length="1"/>
+      <itunes:image href="http://tripleagamingpodcast.com/episodes/T1/E2/Logo.jpg"/>
+      <guid>T1_E2</guid>
+      <itunes:duration>0:25:29</itunes:duration>
+      <pubDate>Mon, 27 Apr 2020 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>T1/E3 - La guerra de consolas ya no existe</title>
+      <description>La guerra de consolas es un tema que se lleva hablando desde hace mucho tiempo, pero, ¿de verdad esta importa?, ¿sigue habiendo competencia entre las compañias?.</description>
+      <itunes:summary>La guerra de consolas es un tema que se lleva hablando desde hace mucho tiempo, pero, ¿de verdad esta importa?, ¿sigue habiendo competencia entre las compañias?.</itunes:summary>
+      <itunes:subtitle>La guerra de consolas es un tema que se lleva hablando desde hace mucho tiempo, pero, ¿de verdad esta importa?, ¿sigue habiendo competencia entre las compañias?.</itunes:subtitle>
+      <enclosure url="http://tripleagamingpodcast.com/episodes/T1/E3/E3.mp3" type="audio/mpeg" length="1"/>
+      <itunes:image href="http://tripleagamingpodcast.com/episodes/T1/E3/Logo.png"/>
+      <guid>T1_E3</guid>
+      <itunes:duration>0:20:49</itunes:duration>
+      <pubDate>Mon, 11 May 2020 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>T1/E4 - La estrategia tóxica de Riot con Valorant</title>
+      <description>Valorant el nuevo juego de Riot Games, ha utilizado una nueva estrategia para darse a conocer, analicemos si como funciona y si es en si buena.</description>
+      <itunes:summary>Valorant el nuevo juego de Riot Games, ha utilizado una nueva estrategia para darse a conocer, analicemos si como funciona y si es en si buena.</itunes:summary>
+      <itunes:subtitle>Valorant el nuevo juego de Riot Games, ha utilizado una nueva estrategia para darse a conocer, analicemos si como funciona y si es en si buena.</itunes:subtitle>
+      <enclosure url="http://tripleagamingpodcast.com/episodes/T1/E4/E4.mp3" type="audio/mpeg" length="1"/>
+      <itunes:image href="http://tripleagamingpodcast.com/episodes/T1/E4/Logo.png"/>
+      <guid>T1_E4</guid>
+      <itunes:duration>0:20:44</itunes:duration>
+      <pubDate>Mon, 25 May 2020 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

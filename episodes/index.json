@@ -1,0 +1,42 @@
+[
+  {
+    "id": "T1_E1",
+    "title": "T1/E1 - Final Fantasy VII: Remake y la pandemia",
+    "description": "El lanzamiento de FFVII:Remake es uno de los más esperados del 2020, vamos a discutir que tal la nueva versión del clásico y como la pandemia hizo sus estragos.",
+    "subtitle": "El lanzamiento de FFVII:Remake es uno de los más esperados del 2020, vamos a discutir que tal la nueva versión del clásico y como la pandemia hizo sus estragos.",
+    "duration": "0:20:00",
+    "pubDate": "Fri, 10 Apr 2020 00:47:21 GMT",
+    "file": "T1/E1/T1E1.mp3",
+    "img": "T1/E1/logo.jpg"
+  },
+  {
+    "id": "T1_E2",
+    "title": "T1/E2 - El terror en los juegos según la edad",
+    "description": "Los juegos de terror pueden dar más o menos miedo, según la edad del jugador, vamos a discutir cuales son los factores que permiten tener mas miedo a medida de que ganamos años.",
+    "subtitle": "Los juegos de terror pueden dar más o menos miedo, según la edad del jugador, vamos a discutir cuales son los factores que permiten tener mas miedo a medida de que ganamos años.",
+    "duration": "0:25:29",
+    "pubDate": "Mon, 27 Apr 2020 12:00:00 GMT",
+    "file": "T1/E2/E2.mp3",
+    "img": "T1/E2/Logo.jpg"
+  },
+  {
+    "id": "T1_E3",
+    "title": "T1/E3 - La guerra de consolas ya no existe",
+    "description": "La guerra de consolas es un tema que se lleva hablando desde hace mucho tiempo, pero, ¿de verdad esta importa?, ¿sigue habiendo competencia entre las compañias?.",
+    "subtitle": "La guerra de consolas es un tema que se lleva hablando desde hace mucho tiempo, pero, ¿de verdad esta importa?, ¿sigue habiendo competencia entre las compañias?.",
+    "duration": "0:20:49",
+    "pubDate": "Mon, 11 May 2020 12:00:00 GMT",
+    "file": "T1/E3/E3.mp3",
+    "img": "T1/E3/Logo.png"
+  },
+  {
+    "id": "T1_E4",
+    "title": "T1/E4 - La estrategia tóxica de Riot con Valorant",
+    "description": "Valorant el nuevo juego de Riot Games, ha utilizado una nueva estrategia para darse a conocer, analicemos si como funciona y si es en si buena.",
+    "subtitle": "Valorant el nuevo juego de Riot Games, ha utilizado una nueva estrategia para darse a conocer, analicemos si como funciona y si es en si buena.",
+    "duration": "0:20:44",
+    "pubDate": "Mon, 25 May 2020 12:00:00 GMT",
+    "file": "T1/E4/E4.mp3",
+    "img": "T1/E4/Logo.png"
+  }
+]
